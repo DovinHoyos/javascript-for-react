@@ -1,0 +1,1 @@
+export const UserDetails = ({user}) => (<div>Que tal! {user.name} {user.lastname}</div>);
